@@ -10,7 +10,7 @@ The purpose of the Deep Learning Challenge is to build a tool for Alphabet Soup,
   
 ## Compiling, Training, and Evaluating the Model
 * The number of neurons in each layer I selected was within the range of 2 to 15, and the number of hidden layers was within the range of 1 to 6. The activation function can be either 'relu', 'tanh', or 'sigmoid'. I gave the algorithm the freedom to find the best configuration that maximizes the validation accuracy.
-* Unfortunately, I was not able to meet the 75% target model performance.
+* Unfortunately, I was not able to meet the 75% target model performance. Additionally, I could not save the Optimized model in H5 format.
 * In my attempts to increase the model performace I tried different neuron layer ranges, and different hidden layer numbers. I also increased the number of epochs so that the model would have a wider reference scope.
 
 ## Summary
